@@ -16,3 +16,5 @@ nodemon: constantly watch node application automatically updating changes
 *HTP client used: insomnia (great for backend APIs = checks end-points)
 *Registration through API: MongoDB Atlas
 *JWT token allows user to access a protected route. Passport will validate it and extract user data from it
+
+https://github.com/validatorjs/validator.js

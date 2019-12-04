@@ -33,7 +33,7 @@ https://fontawesome.com/
 * dev "npm run dev" command runs both react and server. (may need to be in server side to run -?)
 
 
-
+   
 ***************** Front-end Installations | notes
 * npm i -g create-react-app (global setup)
 * client folder = front end

@@ -39,7 +39,7 @@ https://fontawesome.com/
 * client folder = front end
 * setup proxy to connect to backend without having to add local host:8000 to request 
 * create react app runs on port 3000 can cd in client folder and run "npm start"
-             
+                  
 *install concurrently to run both server and client together npm i concurrently
 * in server package.json added "client-install" script: will go into client folder for you and install react dependencies. so when you take from github you do not have to do this.
 *dev command runs both react and server: "npm run dev"
